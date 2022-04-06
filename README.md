@@ -24,9 +24,9 @@
     
 💻 Below is the gif showing the functionality of the application:
   
-![DeWoody README Generator](./src/dewoody-readme-generator.gif)
-  
-🎥 The full movie file showing functionality of the application can be found [here](./src/dewody-readme-generator-movie.webm)  
+![Franklyn Tavarez README Generator](./src/.gif)
+  Franklyn Tavarez
+🎥 The full movie file showing functionality of the application can be found [here](./src/.webm)  
   
 ## User Story
   
