@@ -24,9 +24,9 @@
     
 💻 Below is the gif showing the functionality of the application:
   
-![Franklyn Tavarez README Generator](./src/.gif)
+![Franklyn Tavarez README Generator](./src/readme-genrator.gif)
   Franklyn Tavarez
-🎥 The full movie file showing functionality of the application can be found [here](./src/.webm)  
+🎥 The full movie file showing functionality of the application can be found [here](./src/readme-generator-movie.webm)  
   
 ## User Story
   
