@@ -79,6 +79,3 @@ Run the following command at th root of your project and answer the prompted que
 
 ## Contributing
 :octocat: [Franklyn Tavarez](https://github.com/FranklynT1)
-
-## Questions
-✉️ Contact me with any questions: [email](ma
