@@ -1,4 +1,4 @@
-<h1 align="center">README.md Generator Using Node.js 👋</h1>
+<h1 align="center">README.md Generator Using Node.js </h1>
    
   
 <p align="center">
@@ -19,11 +19,11 @@
    
 ## Description
     
-💻 Below is the gif showing the functionality of the application:
+Below is the gif showing the functionality of the application:
   
 ![Franklyn Tavarez README Generator](./src/readme-genrator.gif)
   Franklyn Tavarez
-🎥 The full movie file showing functionality of the application can be found [here](./src/readme-generator-movie.webm)  
+The full movie file showing functionality of the application can be found [here](./src/readme-generator-movie.webm)  
   
 ## User Story
   
@@ -63,15 +63,13 @@ THEN I am taken to the corresponding section of the README
 - [Contributing](#contributing)
 - [Questions](#questions)
 
-## Installation
-💾   
+## Installation 
   
 `npm init`
   
 `npm install inquirer`
   
-## Usage
-💻   
+## Usage  
   
 Run the following command at th root of your project and answer the prompted questions:
   
